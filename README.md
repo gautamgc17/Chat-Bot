@@ -23,7 +23,7 @@ git clone https://github.com/gautamgc17/Chat-Bot.git
 cd Chat-Bot
 ```
 
-**Step 2. Create a Virtual Environment and install Dependencies.**
+**Step 2. Create a Virtual Environment and install Dependencies**
 
 ```
 pip install virtualenv
@@ -54,7 +54,6 @@ In current code, we are directly using it in the jupyter notebook file. So you c
 
 
 **Step 4. Run the application**
-
 
 After installation of necessary libraries and setting up your OpenAI API key, just the run the cells sequentially for desired output.
 
