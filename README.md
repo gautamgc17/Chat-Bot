@@ -19,7 +19,7 @@ Before running the application, you'll need the following:
 **Step 1. Clone the repository to your local machine and then switch to code directory**
 
 ```
-git clone https://github.com/gautamgc17/Chat-Bot.git
+git clone https://github.com/gautamgc17/Chat-Bot.git 
 cd Chat-Bot
 ```
 
@@ -54,7 +54,10 @@ In current code, we are directly using it in the jupyter notebook file. So you c
 
 
 **Step 4. Run the application**
+
+
 After installation of necessary libraries and setting up your OpenAI API key, just the run the cells sequentially for desired output.
+
  - Run the Code: Run the provided code, which includes a Panel-based user interface.
  - Start Chat: Begin the conversation by typing messages. The chat agents will interact with you to collect information.
  - JSON Summary: When prompted, the chatbot will generate a JSON summary of the collected information, which is then saved as a CSV file.
