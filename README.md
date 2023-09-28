@@ -60,3 +60,25 @@ After installation of necessary libraries and setting up your OpenAI API key, ju
  - Run the Code: Run the provided code, which includes a Panel-based user interface.
  - Start Chat: Begin the conversation by typing messages. The chat agents will interact with you to collect information.
  - JSON Summary: When prompted, the chatbot will generate a JSON summary of the collected information, which is then saved as a CSV file.
+
+## Sample Output
+
+![1](https://github.com/gautamgc17/Chat-Bot/blob/503ed6d0e9ab6ba0e4bad013be3b3ba31e9b075c/assets/1.PNG)
+
+<br>
+
+![1](https://github.com/gautamgc17/Chat-Bot/blob/503ed6d0e9ab6ba0e4bad013be3b3ba31e9b075c/assets/2.PNG)
+
+<br>
+
+![1](https://github.com/gautamgc17/Chat-Bot/blob/503ed6d0e9ab6ba0e4bad013be3b3ba31e9b075c/assets/3.PNG)
+
+<br>
+
+![1](https://github.com/gautamgc17/Chat-Bot/blob/503ed6d0e9ab6ba0e4bad013be3b3ba31e9b075c/assets/4.PNG)
+
+<br>
+
+![1](https://github.com/gautamgc17/Chat-Bot/blob/503ed6d0e9ab6ba0e4bad013be3b3ba31e9b075c/assets/5.PNG)
+
+
