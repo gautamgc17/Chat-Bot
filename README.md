@@ -1,10 +1,10 @@
 # Chat-Bot
 
 ## Objective
-Create a conversational interface to collect user information. The chat agents should guide users naturally and persuade them to provide information.
+Create a conversational interface to collect user information. The chat agent should guide users naturally and persuade them to provide information.
 
 ## Features
-Designed a coherent conversation flow to collect Name, Email, Phone Number, Address, Date of Birth, and Education, using OpenAI language model: GPT-4 for chat responses and to implement multiple roles like "Introduction Agent," "Information Gathering Agent," "Validation Agent," and "Formatting Agent."
+Designed a coherent conversation flow to collect Name, Email, Phone Number, Address, Date of Birth, and Education of the user. Used OpenAI's language model: GPT-4 for chat responses and to implement multiple roles like "Introduction Agent," "Information Gathering Agent," "Validation Agent," and "Formatting Agent."
 
 ## Prerequisites
 Before running the application, you'll need the following:
